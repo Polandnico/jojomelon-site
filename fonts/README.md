@@ -1,0 +1,2 @@
+Self-hosted Fraunces (SOFT 100, WONK 1; upright 600–800, italic 600–700) and DM Sans (400–700). Latin + Latin Extended include Polish. Original CSS source: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;550;600;650;700&family=Fraunces:ital,wght,SOFT,WONK@0,600,100,1;0,700,100,1;0,800,100,1;1,600,100,1;1,700,100,1&display=swap
+Licenses: bundled OFL files. Regenerate intentionally with scripts/fetch-fonts.py; no runtime Google Fonts connection.
