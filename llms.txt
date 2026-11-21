@@ -13,7 +13,13 @@
 
 ## Strony
 - [Strona główna](https://jojomelon.pl/): opis lokalu i wybrane pozycje
-- [Menu i ceny](https://jojomelon.pl/menu/): pełne menu z cenami
+- [Menu i ceny](https://jojomelon.pl/menu/): pełne menu z cenami i opisem smaku każdej pozycji
+- [Ramen](https://jojomelon.pl/ramen/): trzy rameny, bao, dim sum i oden
+- [Matcha i herbata](https://jojomelon.pl/matcha-i-herbata/): napoje z matchą, herbaty z owocami na zimno i na ciepło
+- [Desery](https://jojomelon.pl/desery/): lody w kostkach, śnieg, taiyaki, panna cotta
+- [Jak do nas trafić](https://jojomelon.pl/jak-dojechac/): adres, piętro, tramwaj, parking, godziny
+- [Pytania i odpowiedzi](https://jojomelon.pl/faq/): na wynos, rezerwacje, ceny, co to jest matcha, taiyaki, śnieg
+- [O nas](https://jojomelon.pl/o-nas/): czym jest Jojomelon
 - [Polityka prywatności](https://jojomelon.pl/polityka-prywatnosci/): informacje o przetwarzaniu danych
 
 ## Uwagi
