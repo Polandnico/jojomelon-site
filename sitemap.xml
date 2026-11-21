@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://jojomelon.pl/</loc></url><url><loc>https://jojomelon.pl/menu/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jojomelon.pl/</loc>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://jojomelon.pl/menu/</loc>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://jojomelon.pl/polityka-prywatnosci/</loc>
+    <lastmod>2026-11-21</lastmod>
+  </url>
+</urlset>
